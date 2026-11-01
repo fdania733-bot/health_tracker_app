@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #include "Generated.xcconfig"
+=======
+#include "Generated.xcconfig"
+>>>>>>> 933ca3a (Initial commit: Health Tracker App)
